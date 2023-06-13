@@ -1,0 +1,16 @@
+*{
+    direction: rtl;
+    font-family: yekan, sans-serif;
+}
+@font-face{
+    font-family: yekan;
+    src: url(../fonts/yekan.ttf);
+}
+
+.hover:hover{
+    background-color: rgb(227, 217, 217);
+}
+
+.size13rem{
+    font-size: 1.3rem;
+}
