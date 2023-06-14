@@ -8,9 +8,16 @@
 }
 
 .hover:hover{
-    background-color: rgb(227, 217, 217);
+    background-color: rgb(131, 126, 126);
+    border-radius: 20px;
 }
 
 .size13rem{
     font-size: 1.3rem;
+}
+.color{
+    background-color:rgb(83, 83, 83);
+}
+.color2{
+    background-color: rgb(141,141,141);
 }
