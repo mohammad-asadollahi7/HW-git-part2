@@ -1,6 +1,7 @@
 *{
     direction: rtl;
     font-family: yekan, sans-serif;
+    font-size: 100%;
 }
 @font-face{
     font-family: yekan;
@@ -20,4 +21,7 @@
 }
 .color2{
     background-color: rgb(141,141,141);
+}
+.color3{
+    background-color: rgb(245,245,245);
 }
