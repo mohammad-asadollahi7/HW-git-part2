@@ -25,3 +25,21 @@
 .color3{
     background-color: rgb(245,245,245);
 }
+@media (max-width: 398px){
+
+    .display{
+        display: none;
+    }
+    .display-none{
+        display: block;
+    }
+}
+
+@media(min-width: 398px){
+    .display-none{
+        display: none;
+    }
+    .dsipaly{
+        display: block; 
+    }
+}
